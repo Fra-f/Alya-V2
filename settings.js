@@ -8,8 +8,8 @@ global.socialm = "GitHub: STAR-KING0" //ur github or insta name
 global.location = "Nigeria, Lagos" //ur location
 
 //new
-global.botname = 'Alya-v2' //ur bot name
-global.ownernumber = ['254700065760'] //ur owner number, dont add more than one
+global.botname = 'Alya-v2' //Unknown 
+global.ownernumber = ['254700065760'] //2349132266422, dont add more than one
 global.ownername = '🌟STAR KING' //ur owner name
 global.websitex = "https://youtube.com/@star_king0?si=Rjlqnue51sHnR6Mj"
 global.wagc = "https://whatsapp.com/channel/0029VaeW5Tw4yltQOYIO5E2D"
